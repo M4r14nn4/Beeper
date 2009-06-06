@@ -1,0 +1,14 @@
+Beeper is a super simplistic tool written in shoes that helps tracking my 20/5 working schedule (20 mins work/5 mins break).
+
+The GUI is "super rich", all you'll find is three buttons there:
+
+"Standard session" - starts a "standard session" (who would have guessed? :) which consists of four sequential work & break blocks
+
+"Let's rock this" - starts a single work block
+
+"Break time!" - starts a single break block
+
+The end of each block is indicated with a sound and an alert msg. 
+
+(Yeah, I know that the sound alert and the pic is non-related, I'll check for a better match :)
+    
